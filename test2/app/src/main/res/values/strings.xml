@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sharedpreference</string>
+    <string name="opener">hello testing</string>
+    <string name="tulisan_login">Sign In</string>
+    <string name="tulisan_regis">Registrasi</string>
+    <string name="man">Laki-Laki</string>
+    <string name="woman">Perempuan</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="prov">Provinsi</string>
+    <string name="kota">Kota/Kabupaten</string>
+    <string name="cancel">Cancel</string>
+    <string name="tulisan_jump">Google</string>
+
+</resources>
